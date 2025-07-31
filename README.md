@@ -83,11 +83,11 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/rashupkintimur/my_files.git
+    git clone https://github.com/rashupkin/MyFiels.git
     ```
 2. Перейдите в директорию проекта:
     ```bash
-    cd my_files
+    cd MyFiels
     ```
 3. Установите зависимости:
     ```bash
